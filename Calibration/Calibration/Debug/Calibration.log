@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/7/28 15:31:01。
+     1>项目“E:\Project\C Files\Viva\ImageShapeCalibration\Calibration\Calibration\Calibration.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\opencv\mybuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv\mybuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(52): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(64): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(69): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(70): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\project\c files\viva\imageshapecalibration\calibration\calibration\main.cpp(71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\C Files\Viva\ImageShapeCalibration\Calibration\Debug\Calibration.exe" /INCREMENTAL /NOLOGO opencv_world300d.lib opencv_ts300d.lib opencv_bgsegm300d.lib opencv_bioinspired300d.lib opencv_calib3d300d.lib opencv_ccalib300d.lib opencv_core300d.lib opencv_datasets300d.lib opencv_face300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_latentsvm300d.lib opencv_line_descriptor300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_optflow300d.lib opencv_photo300d.lib opencv_reg300d.lib opencv_rgbd300d.lib opencv_saliency300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_surface_matching300d.lib opencv_text300d.lib opencv_tracking300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib opencv_xfeatures2d300d.lib opencv_ximgproc300d.lib opencv_xobjdetect300d.lib opencv_xphoto300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Project\C Files\Viva\ImageShapeCalibration\Calibration\Debug\Calibration.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\C Files\Viva\ImageShapeCalibration\Calibration\Debug\Calibration.lib" /MACHINE:X86 Debug\main.obj
+         Calibration.vcxproj -> E:\Project\C Files\Viva\ImageShapeCalibration\Calibration\Debug\Calibration.exe
+     1>已完成生成项目“E:\Project\C Files\Viva\ImageShapeCalibration\Calibration\Calibration\Calibration.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.15
